@@ -33,9 +33,6 @@ Actualmente estoy preparando **ISTQB CTFL 4.0** y busco una oportunidad como **Q
 # 📄 Descargar mi CV  
 👉 **[Descargar CV en PDF](PON_AQUÍ_ENLACE_DE_RELEASE)**
 
-*(Sustituye esto por tu enlace de GitHub Release, por ejemplo:*  
-`https://github.com/LuRm24/lucia-cv/releases/download/v1/LuciaRodriguezCV.pdf`*)
-
 ---
 
 # 🧪 Skills Técnicos  
@@ -76,8 +73,6 @@ Actualmente estoy preparando **ISTQB CTFL 4.0** y busco una oportunidad como **Q
 ---
 
 # 📘 Curriculum Vitae Completo
-
-# **CV – Lucía Rodríguez Martín**  
 
 ## **ACERCA DE MÍ**
 Soy una persona con actitud muy positiva, con gran capacidad de adaptación y aprendizaje. Me gusta hacer las cosas bien, obteniendo resultados sólidos y de calidad.
