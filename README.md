@@ -31,7 +31,7 @@ Actualmente estoy preparando **ISTQB CTFL 4.0** y busco una oportunidad como **Q
 ---
 
 # 📄 Descargar mi CV  
-👉 **[Descargar CV en PDF](PON_AQUÍ_ENLACE_DE_RELEASE)**
+👉 **[Descargar CV en PDF](https://github.com/LuRm24/lucia-cv/releases/download/v1/Lucia.Rodriguez.CVES.pdf)**
 
 ---
 
